@@ -1,0 +1,95 @@
+@font-face{
+  font-family:"Tw cen bold";src:url('../Annexes/Polices/Twcenbold.ttf');
+}
+
+@font-face{
+  font-family:"Helvetica Neue";src:url('../Annexes/Polices/HelveticaNeueLTStd-Roman.otf');
+}
+
+nav{
+  height:40px;
+  background-color: #00AF9E;
+}
+
+.reseauxSociaux {
+  width : 45px;
+  height : 40px;
+  padding-right : 10px;
+  opacity: 70%;
+}
+
+a img:hover{
+  opacity: 1;
+}
+
+.ent{
+  color:white;
+  font-size: 22px;
+}
+
+.ent:hover{
+  color:white;
+}
+
+a{
+  color: #00AF9E;
+}
+
+a:hover{
+  color : #00AF9E
+}
+
+#photoVoyage{
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+#logoIUT{
+  width:190px;
+  height:190px;
+}
+
+.menu{
+  font-size:22px;
+}
+
+.menu:hover{
+  background-color: #044883;
+  color :white;
+}
+
+footer a{
+  color : white;
+  font-size: 20px;
+}
+
+.liens_footer:hover{
+  color:white;
+  font-size:20px;
+}
+
+footer{
+  height  :440px;
+  background-color:#00AF9E;
+}
+
+.blanc{
+  color : white;
+}
+
+#logo_univ{
+  margin-top:20px;
+}
+
+.important{
+  color : #E71D73;
+  font-weight : bold;
+}
+
+.twcentbold{
+  font-family: "Tw cen bold";
+}
+
+.helvetica{
+  font-family: "Helvetica Neue";
+}
